@@ -1,3 +1,5 @@
+![]([url da img](https://github.com/jessicasilvacodes/analise-de-dados-programaria/blob/main/images/programaria_logo.png))	
+
 # Análise de Dados - curso PrograMaria
 
 ## Introdução 📝
