@@ -1,4 +1,4 @@
-![](https://github.com/jessicasilvacodes/analise-de-dados-programaria/blob/main/images/programaria_logo.png)
+![](https://github.com/jessicasilvacodes/analise-de-dados-programaria/blob/main/images/programaria_logo.png =100x20)
 
 # Análise de Dados - curso PrograMaria
 
