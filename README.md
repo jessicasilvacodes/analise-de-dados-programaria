@@ -1,4 +1,4 @@
-<h1>Análise de Dados - curso PrograMaria <img src="https://github.com/jessicasilvacodes/analise-de-dados-programaria/blob/main/images/programaria_logo.png" width="100"></h1>
+<h1><img src="https://github.com/jessicasilvacodes/analise-de-dados-programaria/blob/main/images/programaria_logo.png" width="100"> Análise de Dados - curso PrograMaria </h1>
 
 ## Introdução 📝
 Esse projeto analisa os dados da pesquisa anual do DataHackers, juntamente com dados fictícios fornecidos pela PrograMaria, que explora tendências, desafios e diversidade no mercado de Tecnologia da Informação (TI) no Brasil. Essa pesquisa abrange diversos aspectos, como perfil dos profissionais, formação acadêmica, áreas de atuação, salários, ferramentas utilizadas, e questões relacionadas à diversidade, como gênero e etnia.
